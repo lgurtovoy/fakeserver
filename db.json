@@ -1,0 +1,253 @@
+{
+  "emailExistence": {
+    "email_exists": false
+  },
+  "login": {
+    "token": "TOKEN"
+  },
+  "register": {
+    "token": "TOKEN"
+  },
+  "questionnaire": {
+    "status": 200
+  },
+  "meta": {
+      "id": 0,
+      "training_feed": {
+        "recommended_today": {
+          "id": 0,
+          "title": "Upper-Body Hardcore",
+          "description": "The way this programme has been designed – with two sessions a week that work your chest and back directly, and two that work your arms both directly and indirectly – will mean you add significant muscle mass across your torso, while the high-intensity weights workouts will also strip away excess body fat.",
+          "duration": 32,
+          "equipment": "no equipment",
+          "photo": "https://i.ibb.co/09vdr41/Rectangle-1-4.png",
+          "video": [
+            {
+              "id": 0,
+              "title": "string",
+              "is_rest": false,
+              "duration": 0,
+              "description": "string",
+              "equipment": "string",
+              "photo": "string"
+            }
+          ]
+        },
+        "training_plan": {
+          "id": 0,
+          "goal": "Get Fitter",
+          "habits": "Up to 30 minutes",
+          "total_weeks_number": 6,
+          "current_week_number": 2,
+          "coming_trainings": [
+            {
+              "id": 0,
+              "photo": "https://i.ibb.co/bN18Mhj/Rectangle-1-5.png",
+              "title": "Upper-Body Hardcore",
+              "date": "March, 24th",
+              "duration": 45
+            },
+            {
+              "id": 1,
+              "photo": "https://i.ibb.co/y8P0nLf/Rectangle-1-6.png",
+              "title": "Strength Boost",
+              "date": "March, 26th",
+              "duration": 38
+            },
+            {
+              "id": 2,
+              "photo": "https://i.ibb.co/1rmqSLP/Rectangle-1-7.png",
+              "title": "Back & Shoulders",
+              "date": "March, 28th",
+              "duration": 52
+            }
+          ]
+        }
+      },
+      "training_library": {
+        "your_program": [
+            {
+              "id": 0,
+              "title": "Barbell Virtuoso",
+              "description": "The way this programme has been designed – with two sessions a week that work your chest and back directly, and two that work your arms both directly and indirectly – will mean you add significant muscle mass across your torso, while the high-intensity weights workouts will also strip away excess body fat.",
+              "duration": 23,
+              "equipment": "barbell",
+              "photo": "https://i.ibb.co/m9x9jLk/Training-1.png",
+              "video": [
+                {
+                  "id": 0,
+                  "title": "Mountatin Climbers",
+                  "is_rest": false,
+                  "duration": 12,
+                  "description": "1. Get into a plank position, making sure to distribute your weight evenly between your hands and your toes.\n\n2. Pull your right knee into your chest as far as you can.Switch legs, pulling one knee out and bringing the other knee in.\n\n3. Keep your hips down, run your knees in and out as far and as fast as you can. Alternate inhaling and exhaling with each leg change.",
+                  "equipment": "no equipment",
+                  "photo": "https://i.ibb.co/8x7vN8j/Mountatin-Climbers.png"
+                },
+                {
+                    "id": 1,
+                    "title": "Bodyweight Squats",
+                    "is_rest": false,
+                    "duration": 12,
+                    "description": "string",
+                    "equipment": "no equipment",
+                    "photo": "https://i.ibb.co/BBZMkqM/Bodyweight-Squats.png"
+                },
+                {
+                    "id": 2,
+                    "title": "Crossback Lunges",
+                    "is_rest": false,
+                    "duration": 20,
+                    "description": "string",
+                    "equipment": "no equipment",
+                    "photo": "https://i.ibb.co/LQgWjmG/IMG-4607-3.png"
+                },
+                {
+                    "id": 3,
+                    "title": "",
+                    "is_rest": true,
+                    "duration": 30,
+                    "description": "string",
+                    "equipment": "no equipment",
+                    "photo": ""
+                },
+                {
+                    "id": 4,
+                    "title": "Mountatin Climbers",
+                    "is_rest": false,
+                    "duration": 20,
+                    "description": "string",
+                    "equipment": "no equipment",
+                    "photo": "https://i.ibb.co/8x7vN8j/Mountatin-Climbers.png"
+                },
+                {
+                    "id": 5,
+                    "title": "Bodyweight Squats",
+                    "is_rest": false,
+                    "duration": 20,
+                    "description": "string",
+                    "equipment": "no equipment",
+                    "photo": "https://i.ibb.co/BBZMkqM/Bodyweight-Squats.png"
+                },
+                {
+                    "id": 6,
+                    "title": "Crossback Lunges",
+                    "is_rest": false,
+                    "duration": 20,
+                    "description": "string",
+                    "equipment": "no equipment",
+                    "photo": "https://i.ibb.co/LQgWjmG/IMG-4607-3.png"
+                }
+              ]
+            },
+            {
+              "id": 1,
+              "title": "Good-Morning Run",
+              "description": "The way this programme has been designed – with two sessions a week that work your chest and back directly, and two that work your arms both directly and indirectly – will mean you add significant muscle mass across your torso, while the high-intensity weights workouts will also strip away excess body fat.",
+              "duration": 40,
+              "equipment": "no equipment",
+              "photo": "https://i.ibb.co/VQ0cLdp/Training-2.png",
+              "video": [
+              {
+                  "id": 0,
+                  "title": "string",
+                  "is_rest": false,
+                  "duration": 0,
+                  "description": "string",
+                  "equipment": "string",
+                  "photo": "string"
+              }
+              ]
+            },
+            {
+              "id": 2,
+              "title": "Upper-Body Hardcore",
+              "description": "The way this programme has been designed – with two sessions a week that work your chest and back directly, and two that work your arms both directly and indirectly – will mean you add significant muscle mass across your torso, while the high-intensity weights workouts will also strip away excess body fat.",
+              "duration": 32,
+              "equipment": "no equipment",
+              "photo": "https://i.ibb.co/cXnz3BQ/Training-3.png",
+              "video": [
+                {
+                  "id": 0,
+                  "title": "string",
+                  "is_rest": false,
+                  "duration": 0,
+                  "description": "string",
+                  "equipment": "string",
+                  "photo": "string"
+                }
+              ]
+            }
+        ],
+        "trainings": [
+          {
+            "id": 0,
+            "title": "Core and Chest System",
+            "description": "The way this programme has been designed – with two sessions a week that work your chest and back directly, and two that work your arms both directly and indirectly – will mean you add significant muscle mass across your torso, while the high-intensity weights workouts will also strip away excess body fat.",
+            "duration": 15,
+            "equipment": "no equipment",
+            "photo": "https://i.ibb.co/6r8YT1Z/Rectangle-1-8.png",
+            "video": [
+              {
+                "id": 0,
+                "title": "string",
+                "is_rest": false,
+                "duration": 0,
+                "description": "string",
+                "equipment": "string",
+                "photo": "string"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "title": "HIIT Collection",
+            "description": "The way this programme has been designed – with two sessions a week that work your chest and back directly, and two that work your arms both directly and indirectly – will mean you add significant muscle mass across your torso, while the high-intensity weights workouts will also strip away excess body fat.",
+            "duration": 22,
+            "equipment": "light dumbbels",
+            "photo": "https://i.ibb.co/MNgjByL/Rectangle-1-9.png",
+            "video": [
+            {
+                "id": 0,
+                "title": "string",
+                "is_rest": false,
+                "duration": 0,
+                "description": "string",
+                "equipment": "string",
+                "photo": "string"
+            }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Sunset Yoga Class",
+            "description": "The way this programme has been designed – with two sessions a week that work your chest and back directly, and two that work your arms both directly and indirectly – will mean you add significant muscle mass across your torso, while the high-intensity weights workouts will also strip away excess body fat.",
+            "duration": 40,
+            "equipment": "no equipment",
+            "photo": "https://i.ibb.co/j5P1G81/Rectangle-1-10.png",
+            "video": [
+              {
+                "id": 0,
+                "title": "string",
+                "is_rest": false,
+                "duration": 0,
+                "description": "string",
+                "equipment": "string",
+                "photo": "string"
+              }
+            ]
+          }
+        ]
+      },
+      "weekly_statistics": {
+        "done_trainings": "string",
+        "total_trainings": 0,
+        "calories_burned": "string"
+      },
+      "user": {
+        "id": 0,
+        "name": "string",
+        "email": "string",
+        "userStatus": "created"
+      }
+  }
+}

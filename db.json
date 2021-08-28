@@ -118,24 +118,6 @@
                     "description": "string",
                     "equipment": "no equipment",
                     "photo": "https://i.ibb.co/8x7vN8j/Mountatin-Climbers.png"
-                },
-                {
-                    "id": 5,
-                    "title": "Bodyweight Squats",
-                    "is_rest": false,
-                    "duration": 20,
-                    "description": "string",
-                    "equipment": "no equipment",
-                    "photo": "https://i.ibb.co/BBZMkqM/Bodyweight-Squats.png"
-                },
-                {
-                    "id": 6,
-                    "title": "Crossback Lunges",
-                    "is_rest": false,
-                    "duration": 20,
-                    "description": "string",
-                    "equipment": "no equipment",
-                    "photo": "https://i.ibb.co/LQgWjmG/IMG-4607-3.png"
                 }
               ]
             },
@@ -215,25 +197,6 @@
                 "equipment": "string",
                 "photo": "string"
             }
-            ]
-          },
-          {
-            "id": 2,
-            "title": "Sunset Yoga Class",
-            "description": "The way this programme has been designed – with two sessions a week that work your chest and back directly, and two that work your arms both directly and indirectly – will mean you add significant muscle mass across your torso, while the high-intensity weights workouts will also strip away excess body fat.",
-            "duration": 40,
-            "equipment": "no equipment",
-            "photo": "https://i.ibb.co/j5P1G81/Rectangle-1-10.png",
-            "video": [
-              {
-                "id": 0,
-                "title": "string",
-                "is_rest": false,
-                "duration": 0,
-                "description": "string",
-                "equipment": "string",
-                "photo": "string"
-              }
             ]
           }
         ]
